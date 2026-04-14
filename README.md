@@ -1,6 +1,8 @@
-# MNIST CNN + Drawing App (PyTorch)
+# MNIST Visualization
 
 This project trains a custom CNN (with residual blocks) on MNIST, then lets you draw digits in a small window and see live probabilities for 0–9.
+
+You can find more information at: [Mnist-Recognition](https://tian404.top/blog/mnist-recognition/mnist-recognition)
 
 ## 0) Environment
 
